@@ -1,0 +1,19 @@
+.container.c-fluid-visible{
+    border: 2px dashed red;
+}
+
+[class^='col']{
+    border: 2px dashed red;
+}
+
+
+.row.height-100{
+    height: 100px;
+}
+
+
+.row.height-400{
+    height: 400px;
+}
+
+
