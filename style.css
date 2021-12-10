@@ -1,14 +1,11 @@
 
-.container{
-/*     border: 2px dashed red;
- */}
-
-.container-fluid{
-/*     border: 2px dashed blue;
- */}
-
 .navbar.bg-lightdark{
 background-color: #2C3E50;
+}
+
+
+#jumbotron, .card.bg-green{
+    background-color: #1ABC9C;
 }
 
 [class^='col']{
