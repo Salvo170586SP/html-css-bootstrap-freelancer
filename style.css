@@ -1,25 +1,26 @@
-
-.navbar.bg-lightdark{
-background-color: #2C3E50;
+.navbar.bg-lightdark {
+    background-color: #2C3E50;
 }
 
 
-#jumbotron, .card.bg-green{
+#jumbotron,
+#about, .card.bg-green {
     background-color: #1ABC9C;
 }
 
-.card-width{
+.card-width {
     width: 30rem;
 }
 
 
 
-[class^='col']{
-/*     border: 2px dashed orange;
- */    min-height: 50px;
+[class^='col'] {
+    /*     border: 2px dashed orange;
+ */
+    min-height: 50px;
 }
 
-section{
+section {
     min-height: 500px;
     border: 2px dashed green;
 }
