@@ -7,9 +7,8 @@
 /*     border: 2px dashed blue;
  */}
 
-header{
-/*     border: 2px dashed dodgerblue;
- */    min-height: 80px;
+.navbar.bg-lightdark{
+background-color: #2C3E50;
 }
 
 [class^='col']{
