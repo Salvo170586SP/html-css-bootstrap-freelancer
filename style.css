@@ -17,10 +17,10 @@
 [class^='col'] {
     /*     border: 2px dashed orange;
  */
-    min-height: 50px;
-}
+/*     min-height: 50px;
+ */}
 
 section {
-    min-height: 500px;
-    border: 2px dashed green;
+/*     min-height: 500px;
+ */    border: 2px dashed green;
 }
