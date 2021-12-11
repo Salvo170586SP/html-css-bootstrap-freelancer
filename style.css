@@ -28,13 +28,3 @@ footer .footer-bottom {
 }
 
 
-[class^='col'] {
-    /*     border: 2px dashed orange;
- */
-/*     min-height: 50px;
- */}
-
-section {
-/*     min-height: 500px;
- */    border: 2px dashed green;
-}
