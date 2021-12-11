@@ -14,6 +14,14 @@ footer .footer-bottom {
     width: 250px;
 }
 
+
+.line-item{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
+
 #contact .form-control{
     border-radius: 0;
     border-width: 0 0 1px 0;
