@@ -9,10 +9,10 @@ footer .footer-bottom {
     background-color: #1ABC9C;
 }
 
-.card-width {
-    width: 30rem;
-}
 
+.card figure{
+    width: 250px;
+}
 
 #contact .form-control{
     border-radius: 0;
